@@ -44,11 +44,13 @@
     <ul>
         <li>There was a slight decrease in 1-day retention when the gate was moved from level 30 (44.8%) to level 40 (44.2%).</li>
         <li>It tells that 1-day retention rate was higher in players who were assigned with version (gate_30) with 96.2%. It is obvious that setting the forced stop moment at gate 30 is efficient to make player's retention rate higher..</li>
-        <li>**However**, since players have only been playing the game for one day, it is likely that most players haven't reached level 30 yet. That is, many players won't have been affected by the gate, even if it's as early as level 30.</li>
+        <li>However, since players have only been playing the game for one day, it is likely that most players haven't reached level 30 yet. That is, many players won't have been affected by the gate, even if it's as early as level 30.</li>
     </ul>
     <h3>7-day retention</h3>
     <ul>
         <li>There was also a slight decrease in 7-day retention when the gate was moved from level 30 (19.0%) to level 40 (18.2%).</li>
         <li>Here, we can see that the overall 7-days retention rate for players decreased from about 44% to 18% compared to 1-day retention rate. It shows that a lot of people stopped playing game within a week. Also, it is similar that players assigned with gate_30 shows higher 7-days retention rate. We can get a hint that still making players stop playing games at gate 30 is effective way to engage players and drive in-app purchases.</li>
-        <li>The bootstrap result tells us that there is strong evidence that 7-day retention is higher when the gate is at level 30 than when it is at level 40. **The conclusion is: If we want to keep retention high — both 1-day and 7-day retention — we should not move the gate from level 30 to level 40**. There are, of course, other metrics we could look at, like the number of game rounds played or how much in-game purchases are made by the two AB-groups. But retention is one of the most important metrics. If we don't retain our player base, it doesn't matter how much money they spend in-game.</li>
+        <li>The bootstrap result tells us that there is strong evidence that 7-day retention is higher when the gate is at level 30 than when it is at level 40.</li>
+        
+        <li>The conclusion is: If we want to keep retention high — both 1-day and 7-day retention — we should not move the gate from level 30 to level 40. There are, of course, other metrics we could look at, like the number of game rounds played or how much in-game purchases are made by the two AB-groups. But retention is one of the most important metrics. If we don't retain our player base, it doesn't matter how much money they spend in-game.</li>
        
