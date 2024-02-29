@@ -1,4 +1,4 @@
-<h1>A/B Testing - Cookie Cats</h1>
+<h1>A/B Testing - Cookie Cats 🕹️</h1>
 <p>Mobile Games A/B Testing with Cookie Cats</p>
 
 <h2>Problem Statement</h2>
